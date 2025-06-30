@@ -1,8 +1,7 @@
 # flight_finder
 
 github link- https://github.com/srinivasreddy19/flight_finder.git
-# Shop_smart
-#Flight Booking App
+
 
 A React-based flight booking application that allows users to search and book flights.
 
